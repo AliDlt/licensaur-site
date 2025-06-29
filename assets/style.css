@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+header {
+  background: #222;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: #3b82f6;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+main {
+  padding: 2rem;
+}
+
+pre {
+  background: #eee;
+  padding: 1rem;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #ddd;
+}
